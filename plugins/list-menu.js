@@ -15,7 +15,7 @@ const sections = [ {
             {title: `All CMD Payment`, rowId: `.pay `},//, description: ``},
 	    {title: `Owner`, rowId: `#owner `},//, description: ``},
         {title: `Donasi`, rowId: `#donasi `},//, description: ``},
-        {title: `Script`, rowId: `#sc `},//, description: ``},
+        {title: ``, rowId: `#m `},//, description: ``},
         {title: `Group Official`, rowId: `#gcbot `},//, description: ``},
         {title: `Speed`, rowId: `#speed `},//, description: ``},
         {title: `List Texpro Maker`, rowId: `#textpro `},//, description: ``},
