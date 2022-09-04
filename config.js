@@ -3,23 +3,23 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx']  // isi jika perlu
-global.mods = ['6282xxxxxx']   // isi jika perlu
-global.prems = ['6282xxxxxx']  // isi jika perlu
+global.owner = ['6281386945391']  // isi jika perlu
+global.mods = ['6281386945391']   // isi jika perlu
+global.prems = ['6281386945391']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
 global.nameowner = '⫹⫺ OWNER' // isi nama kalian bebas
-global.numberowner = '6282xxxxxx' // isi nomor kalian dengan awalan seperti di contoh 
-global.instagram = 'https://instagram.com/prm2.0' // isi Instagram kalian harus link
-global.github = 'https://github.com/BOTCAHX' // gausah di isi juga gpp bro
-global.dana = '6282xxxxxx' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6282xxxxxx' // isi dengan nomor pulsa hp kalian
+global.numberowner = '62881386945391' // isi nomor kalian dengan awalan seperti di contoh 
+global.instagram = 'https://instagram.com/nizarrrahman.f_' // isi Instagram kalian harus link
+global.github = 'https://github.com/nizarrahman' // gausah di isi juga gpp bro
+global.dana = '-' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6281386945391' // isi dengan nomor pulsa hp kalian
 global.gopay = ''
 
 //Name Bot & Grouplink//
-global.namebot = 'R-txzyMd'
-global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Nizar-Md'
+global.gc = 'https://chat.whatsapp.com/LvJgI6TTVn0B2r8cpUBSQL'
+global.web = 'https://linktr.ee/nizarrrahman.f' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //Tanpilan wm Bot ( Sebagian Tidak di fungsi kan)//
@@ -27,10 +27,10 @@ global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-stu
 global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '© Nizar Rahman'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = '⫹⫺ Nizar Rahman'
+global.wm3 = '© Nizar Rahman'
 global.wm4 = '© 2021/2022'
 global.htki = '––––––『' 
 global.htka = '』––––––'
